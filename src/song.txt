@@ -122,3 +122,8 @@ Do it, do-do it, do it (I know better than that)
 I just can't do it
 (I just can't do it, baby)
 (I know better than that) I just can't do it
+
+"Do" and "it" counters:
+1. "Do": 219
+2. "It": 108
+(99.99% chance a count went wrong)
